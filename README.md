@@ -27,3 +27,10 @@ Science member (step 6 above)
 6. Write standard queries/use-cases (minimum 10)
 7. Perform analytics on the database using queries e.g. getting the best value for the
 hyperparameter from the database
+
+# Team Members
+1.Purvang Jayesh Thakkar (001387983)
+
+2.Ira Pantbalekundri (001423854)  
+
+3.Nikita Gawde (001409592)
